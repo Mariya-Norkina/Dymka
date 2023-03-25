@@ -4,7 +4,8 @@
    <meta charset="utf-8">
      <meta name="viewport" content="width=device-width, initial-scale=1">
       <title> Главная </title>
-        <style>
+	   <link  href="Project.css" rel="stylesheet" type="text/css"/>
+	    <style>
         h1{ font-style:garamond;
      font-size:50px;
      margin-top:250px;
@@ -222,7 +223,6 @@ article {margin-top:100px;}
 }
 
         </style>
-	   <link  href="Project.css" rel="stylesheet" type="text/css"/> 
   </head>
   
   <body>
